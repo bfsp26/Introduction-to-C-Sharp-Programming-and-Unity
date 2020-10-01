@@ -16,3 +16,12 @@ E:\Almacenamiento\Proyectos\CS\Codes\ProgrammingAssignment2\ProgrammingAssignmen
 E:\Almacenamiento\Proyectos\CS\Codes\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CopyComplete
 E:\Almacenamiento\Proyectos\CS\Codes\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
 E:\Almacenamiento\Proyectos\CS\Codes\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe.config
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.exe
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ProgrammingAssignment2.pdb
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\bin\Debug\ConsoleCards.dll
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csprojAssemblyReference.cache
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.csproj.CopyComplete
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.exe
+E:\Almacenamiento\Proyectos\CS\Introduction-to-C-Sharp-Programming-and-Unity\ProgrammingAssignment2\ProgrammingAssignment2\obj\Debug\ProgrammingAssignment2.pdb
